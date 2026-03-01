@@ -19,6 +19,12 @@ This repository is a collection of my **hands-on learning notes** as I go throug
 | [**Working of Internet**](./Working%20of%20Internet/)             | How the internet works — DNS, IP, protocols & more   |
 | [**Linux Basic**](./Linux%20Basic/)                               | Introduction to Linux, OS concepts & terminal basics |
 | [**ALL Basic Linux Commands**](./ALL%20Basic%20Linux%20Commands/) | Complete cheat-sheet of essential Linux commands     |
+| [**File Management & Permissions**](./File%20Management%20and%20Permission%20commands/) | Commands for file handling, ownership & permissions |
+| [**System Level Commands**](./System%20level%20commands/)         | Monitoring and system utilities                      |
+| [**Networking Commands**](./Networking%20Commands/)               | Common network troubleshooting and tools            |
+| [**Some Pro Linux Commands**](./8.%20Some%20pro%20linux%20commands/) | Advanced text processing utilities (`awk`,`sed`,`grep`) |
+| [**User & Group Management**](./9.%20User%20and%20Group%20Management%20Commands/) | Managing users, groups and permissions               |
+| [**Volume Management Commands**](./10.%20Volume%20Management%20Commands/) | LVM and AWS EBS examples for dynamic storage         |
 
 > 📌 _More folders will be added as I continue learning!_
 
