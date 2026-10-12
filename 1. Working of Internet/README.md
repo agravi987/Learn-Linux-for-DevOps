@@ -2,6 +2,10 @@
 
 ---
 
+## Image to Understand and visulaize concept faster
+
+![Image to Understand and visulaize concept faster ](<Internet Basics Study Guide.png>)
+
 ## 1. How Does the Internet Work?
 
 The Internet is a **global network** of computers that communicate using **protocols** (TCP/IP, HTTP).
